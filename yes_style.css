@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(242, 138, 242);
+}
+
+.header_text {
+    font-family: 'Nunito';
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 5px;
+    height: 5px;
+}
